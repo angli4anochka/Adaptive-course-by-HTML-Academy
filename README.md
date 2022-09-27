@@ -1,1 +1,2 @@
-# Adaptive-course-by-HTML-Academy
+Practice by HTML Academy
+Adaprive web-page
